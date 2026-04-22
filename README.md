@@ -49,6 +49,9 @@ I start by identifying the core classes, responsibilities, and constraints. From
 Contact
 
 Shawn Ward
+
 Computer Science Student
+
 Southern New Hampshire University
+
 Email: shawn.ward3@snhu.edu
